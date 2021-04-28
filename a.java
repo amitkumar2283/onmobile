@@ -1,3 +1,3 @@
 System.println ("Hello World!")
-Print ('Hola')
+Print ('Hola Amigos')
 
